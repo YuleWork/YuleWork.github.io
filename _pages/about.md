@@ -22,24 +22,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 A new paper is accepted by GPS Solut., A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GPS Solut. 2025</div><img src='images/eofm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method](https://link.springer.com/article/10.1007/s10291-024-01770-z)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yu Wang**, Shuanggen Jin, Cheng Liu, Guanjun Zhang, Yunlong Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Establised a new model. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- **Y., Wang**, S.G. Jin, C. Liu, G. Zhang, and Y. Zhang (2025), A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method, GPS Solut., 29(1), 11, doi: 10.1007/s10291-024-01770-z. **(Top)**
+- **Y., Wang**, and S.G. Jin (2023), Effect of GNSS radio occultation observations on the prediction of the 2021 Henan rainstorm, GPS Solut., 27(3), 102, doi: 10.1007/s10291-023-01445-1. **(Top)**
+- **Y. Wang**, H. Li, H. Wang, B. Sun, H. Chen (2021), Evaluation of CMIP6 model simulations of extreme precipitation in China and comparison with CMIP5. Acta Meteorologica Sinica, 79（3）:369-386, doi: 10.11676/qxxb2021.031. (In Chinese, **CNKI high-impact paper, selected 2023 F5000, Top academic paper in China's quality science and technology journals**)
+- **Y. Wang**, H. Li, B. Sun, H. Chen, H. Li, and Y. Luo (2020), Drought impacts on hydropower capacity over the Yangtze River Basin and their future projections under 1.5/2oC warming scenarios, Front. Earth Sci., 8, 578132, doi: 10.3389/feart.2020.578132.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

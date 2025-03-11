@@ -48,8 +48,8 @@ I have published six papers now, at the top journals in both English and Chinese
 - **Y. Wang**, H. Li, B. Sun, H. Chen, H. Li, and Y. Luo (2020), Drought impacts on hydropower capacity over the Yangtze River Basin and their future projections under 1.5/2oC warming scenarios, Front. Earth Sci., 8, 578132, doi: 10.3389/feart.2020.578132.
 
 # 🎖 Honors and Awards
-- *2020.04* Meritorious Winner in Interdisciplinary Contest in Modeling (ICM). 
-- *2019.11* First prize in Jiangsu Division of Undergraduate group in 2019 Higher Education Society Cup National College Students Mathematical Contest in Modeling.
+- *2020.04* **Meritorious Winner** in Interdisciplinary Contest in Modeling (ICM). 
+- *2019.11* **First prize** in Jiangsu Division of Undergraduate group in 2019 Higher Education Society Cup National College Students Mathematical Contest in Modeling.
 - *2018-2019* School outstanding Communist Youth League member, school merit student, school first-class scholarship, etc  
 
 # 📖 Educations

@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yu Wang"
 description              : "Atmospheric Remote Sensing, Planetary Climate Change and Dynamics"
-repository               : "YuleWork/YuleWork.github.io.git"
+repository               : "yulework/yulework.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yu Wang"
+  name             : "Yu Wang (王予)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D candidate"
   location         : "Shanghai, China"

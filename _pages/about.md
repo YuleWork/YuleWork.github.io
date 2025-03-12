@@ -19,9 +19,9 @@ redirect_from:
 
 # 🙋‍♂️ About me 
 
-Here is Yu Wang, or English name Yule. I am now a PhD student in Shanghai Astronomical Observatory (SHAO), University of Chinese Academic of Science. I majored in atmospheic science when undergraduate, and now specilize in Martian atmosphere, Martian land-atmosphere interactions and numerical simulation. I'm obsessed with Martian atmosphere, and I wish I can devote my life in Mars science.
+Hi, I’m Yu Wang, but you can also call me Yule. I am currently a PhD student at the Shanghai Astronomical Observatory (SHAO), part of the University of Chinese Academy of Sciences. During my undergraduate studies, I majored in atmospheric science, and now I specialize in the Martian atmosphere, Martian land-atmosphere interactions, and numerical simulations. I am deeply fascinated by the Martian atmosphere and hope to dedicate my career to Mars science.
 
-I have published six papers now, at the top journals in both English and Chinese, with total google scholar citationstotal <a href='https://scholar.google.com/citations?user=7VZSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. At the begining of my research time, I worked for climate change on Earth, GNSS-RO assimilation and troposphric delay modelling. All in all, I worked for the atmosphric related works. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - ywang@shao.ac.cn 
+So far, I have published six papers in top-tier journals in both English and Chinese, with a total Google Scholar citation <a href='https://scholar.google.com/citations?user=7VZSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. In the early stages of my research career, I focused on Earth’s climate change, GNSS-RO assimilation, and tropospheric delay modeling. In short, my work has always revolved around atmospheric science. If you’re interested in any aspect of my research or would like to collaborate, I’m always open to discussions. Feel free to reach out to me at ywang@shao.ac.cn.
 
 
 # 🔥 News

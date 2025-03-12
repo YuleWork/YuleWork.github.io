@@ -20,7 +20,7 @@ redirect_from:
 
 Here is Yu Wang, or English name Yule. I am now a PhD student in Shanghai Astronomical Observatory (SHAO), University of Chinese Academic of Science. I majored in atmospheic science when undergraduate, and now specilize in Martian atmosphere, Martian land-atmosphere interactions and numerical simulation. I'm obsessed with Martian atmosphere, and I wish I can devote my life in Mars science.
 
-I have published six papers now, at the top journals in both English and Chinese, with total google scholar citationstotal <a href='https://scholar.google.com/citations?user=w-7VZSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. At the begining of my research time, I worked for climate change on Earth, GNSS-RO assimilation and troposphric delay modelling. All in all, I worked for the atmosphric related works. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - ywang@shao.ac.cn 
+I have published six papers now, at the top journals in both English and Chinese, with total google scholar citationstotal <a href='https://scholar.google.com/citations?user=7VZSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. At the begining of my research time, I worked for climate change on Earth, GNSS-RO assimilation and troposphric delay modelling. All in all, I worked for the atmosphric related works. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - ywang@shao.ac.cn 
 
 
 # 🔥 News

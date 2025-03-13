@@ -24,10 +24,14 @@ Hi, I’m Yu Wang, but you can also call me Yule. I am currently a PhD student a
 So far, I have published six papers in top-tier journals in both English and Chinese, with a total Google Scholar citation <a href='https://scholar.google.com/citations?user=7VZSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. In the early stages of my research career, I focused on Earth’s climate change, GNSS-RO assimilation, and tropospheric delay modeling. In short, my work has always revolved around atmospheric science. If you’re interested in any aspect of my research or would like to collaborate, I’m always open to discussions. Feel free to reach out to me at ywang@shao.ac.cn
 
 
-# 🔥 News
+# 📣 News
+- *2025.03*: &nbsp;💬💬  I will be attending the 22nd Annual Meeting of the Asia Oceania Geosciences Society (AOGS 2025), taking place from July 27 to August 1, 2025. During the conference, I will be presenting a talk titled "Diurnal Temperature Cycle Models and Abnormal Variations on the Martian Surface: Insights from In-situ and Satellite Data. 
+
 - *2024.10*: &nbsp;🎉🎉 A new paper is accepted by GPS Solut., A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method. 
 
-# 📝 Selected Publications 
+# 📝 Publications 
+
+## 🏆 Highlights
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GPS Solut. 2025</div><img src='images/eofm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,6 +46,22 @@ So far, I have published six papers in top-tier journals in both English and Chi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">气象学报 2021</div><img src='images/cmip6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluation of CMIP6 model simulations of extreme precipitation in China and comparison with CMIP5](http://qxxb.cmsjournal.net/en/article/doi/10.11676/qxxb2021.031)
+
+**Yu Wang**, Huixin Li, Huijun Wang, Bo Sun, Huopo Chen
+
+🔥🔥**Citations: 116**
+
+- Evaluates the performance of CMIP6 and CMIP5 global climate models in simulating extreme precipitation indices over China. 
+- CMIP6 shows lower errors in climatological mean and variability, with significant improvements in arid regions.
+- CMIP6 has better spatial correlation and higher Taylor skill scores, with performance varying by region but generally improving extreme precipitation simulations.
+</div>
+</div>
+
+## 📑 Selected Publications
 
 - **Y., Wang**, S.G. Jin, C. Liu, G. Zhang, and Y. Zhang (2025), A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method, GPS Solut., 29(1), 11, doi: 10.1007/s10291-024-01770-z. **(Top)**
 - **Y., Wang**, and S.G. Jin (2023), Effect of GNSS radio occultation observations on the prediction of the 2021 Henan rainstorm, GPS Solut., 27(3), 102, doi: 10.1007/s10291-023-01445-1. **(Top)**

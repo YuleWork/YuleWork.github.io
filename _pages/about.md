@@ -25,6 +25,9 @@ So far, I have published six papers in top-tier journals in both English and Chi
 
 
 # 📣 News
+
+- *2025.03*: &nbsp;🎉🎉 My first work focusing on Mars has been accepted for publication! The paper, titled Diurnal Temperature Cycle Models and Their Performance on the Martian Surface Using In-Situ and Satellite Data, will be published in Planetary and Space Science. 
+
 - *2025.03*: &nbsp;💬💬  I will be attending the 22nd Annual Meeting of the Asia Oceania Geosciences Society (AOGS 2025), taking place from July 27 to August 1, 2025. During the conference, I will be presenting a talk titled "Diurnal Temperature Cycle Models and Abnormal Variations on the Martian Surface: Insights from In-situ and Satellite Data. 
 
 - *2024.10*: &nbsp;🎉🎉 A new paper is accepted by GPS Solut., A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method. 

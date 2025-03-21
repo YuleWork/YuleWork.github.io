@@ -66,6 +66,7 @@ So far, I have published six papers in top-tier journals in both English and Chi
 
 ## 📑 Selected Publications
 
+- **Y., Wang**, and S.G. Jin (2025), Diurnal temperature cycle models and their performance on the Martian surface using in-situ and satellite data, Planet. Space Sci., doi: 10.1016/j.pss.2025.106100.
 - **Y., Wang**, S.G. Jin, C. Liu, G. Zhang, and Y. Zhang (2025), A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method, GPS Solut., 29(1), 11, doi: 10.1007/s10291-024-01770-z. **(Top)**
 - **Y., Wang**, and S.G. Jin (2023), Effect of GNSS radio occultation observations on the prediction of the 2021 Henan rainstorm, GPS Solut., 27(3), 102, doi: 10.1007/s10291-023-01445-1. **(Top)**
 - **Y. Wang**, H. Li, H. Wang, B. Sun, H. Chen (2021), Evaluation of CMIP6 model simulations of extreme precipitation in China and comparison with CMIP5. Acta Meteorologica Sinica, 79（3）:369-386, doi: 10.11676/qxxb2021.031. (In Chinese, **CNKI high-impact paper, selected 2023 F5000, Top academic paper in China's quality science and technology journals**)

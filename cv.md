@@ -4,6 +4,7 @@
 
 # 📝 Publications 
 
+- **Y., Wang**, and S.G. Jin (2025), Diurnal temperature cycle models and their performance on the Martian surface using in-situ and satellite data, Planet. Space Sci., doi: 10.1016/j.pss.2025.106100.
 - **Y., Wang**, S.G. Jin, C. Liu, G. Zhang, and Y. Zhang (2025), A real-time ZTD model in China using ERA5 and GNSS based on empirical orthogonal function method, GPS Solut., 29(1), 11, doi: 10.1007/s10291-024-01770-z. **(Top)**
 - Zhran, M., A. Mousa, **Y. Wang**, F. Hasher, and S.G. Jin (2024), Assessment of commercial GNSS Radio Occultation performance from PlanetiQ mission, Remote Sens., 16(17), 3339, doi: 10.3390/rs16173339.
 - **Y., Wang**, and S.G. Jin (2023), Effect of GNSS radio occultation observations on the prediction of the 2021 Henan rainstorm, GPS Solut., 27(3), 102, doi: 10.1007/s10291-023-01445-1. **(Top)**

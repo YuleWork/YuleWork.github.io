@@ -16,9 +16,11 @@
 - Invited journal reviewer for IEEE TGRS
 
 # 🎖 Honors and Awards
-- *2020.04* Meritorious Winner in Interdisciplinary Contest in Modeling (ICM). 
-- *2019.11* First prize in Jiangsu Division of Undergraduate group in 2019 Higher Education Society Cup National College Students Mathematical Contest in Modeling.
+- *2025.09* Paper selected as a **high PCSI paper, highly cited paper, and highly downloaded paper** on CNKI.
+- *2020.04* **Meritorious Winner** in Interdisciplinary Contest in Modeling (ICM). 
+- *2019.11* **First prize** in Jiangsu Division of Undergraduate group in 2019 Higher Education Society Cup National College Students Mathematical Contest in Modeling.
 - *2018-2019* School outstanding Communist Youth League member, school merit student, school first-class scholarship, etc  
 
 # 💬 Invited Talks
+- *2025.0*, Oral: Diurnal Temperature Cycle Models and Abnormal Variations on Martian Surface from In-situ and Satellite Data, 22nd Annual Meeting of Asia Oceania Geosciences Society (AOGS2025), 27 July - 01 August 2025, Singpore, Singpore.
 - *2023.11*, Oral: Effect of GNSS radio occultation observations on the prediction of the 2021 Henan rainstorm, 1st International Symposium on Satellite Navigation (ISSN2023) - Advances, Opportunities and Challenges, 20-22 November 2023, Jiaozuo, China.

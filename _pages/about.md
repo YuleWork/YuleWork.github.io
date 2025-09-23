@@ -36,6 +36,19 @@ So far, I have published six papers in top-tier journals in both English and Chi
 
 ## 🏆 Highlights
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Planet. Space Sci. 2025</div><img src='images/dmt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diurnal temperature cycle models and performances on Martian surface
+using in-situ and satellite data](https://doi.org/10.1016/j.pss.2025.106100)
+
+**Yu Wang**, Shuanggen Jin
+- Created new semi-empirical models to accurately describe the Martian surface temperature cycle.
+- The new DTC models, particularly the DMT24 model developed in this work, effectively capture daily temperature changes with high accuracy (errors as low as 0.74 K) and perform well during challenging periods like sunrise and nighttime.
+- Demonstrates that these models can be adapted using parameter-reduction approaches to work with the limited data from Mars-orbiting satellites, making them suitable for global temperature studies.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GPS Solut. 2025</div><img src='images/eofm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,7 +69,7 @@ So far, I have published six papers in top-tier journals in both English and Chi
 
 **Yu Wang**, Huixin Li, Huijun Wang, Bo Sun, Huopo Chen
 
-🔥🔥**Citations: 116**
+🔥🔥  **\|Citations: 143**
 
 - Evaluates the performance of CMIP6 and CMIP5 global climate models in simulating extreme precipitation indices over China. 
 - CMIP6 shows lower errors in climatological mean and variability, with significant improvements in arid regions.
@@ -77,6 +90,7 @@ So far, I have published six papers in top-tier journals in both English and Chi
 - Invited journal reviewer for IEEE TGRS
 
 # 🎖 Honors and Awards
+- *2025.09* Paper selected as a **high PCSI paper, highly cited paper, and highly downloaded paper** on CNKI.
 - *2020.04* **Meritorious Winner** in Interdisciplinary Contest in Modeling (ICM). 
 - *2019.11* **First prize** in Jiangsu Division of Undergraduate group in 2019 Higher Education Society Cup National College Students Mathematical Contest in Modeling.
 - *2018-2019* School outstanding Communist Youth League member, school merit student, school first-class scholarship, etc  
@@ -86,4 +100,5 @@ So far, I have published six papers in top-tier journals in both English and Chi
 - *2018.09 - 2022.06*, Nanjing University of Information Science & Technology (NUIST), bachelor of science in atmospheric science. 
 
 # 💬 Invited Talks
+- *2025.0*, Oral: Diurnal Temperature Cycle Models and Abnormal Variations on Martian Surface from In-situ and Satellite Data, 22nd Annual Meeting of Asia Oceania Geosciences Society (AOGS2025), 27 July - 01 August 2025, Singpore, Singpore.
 - *2023.11*, Oral: Effect of GNSS radio occultation observations on the prediction of the 2021 Henan rainstorm, 1st International Symposium on Satellite Navigation (ISSN2023) - Advances, Opportunities and Challenges, 20-22 November 2023, Jiaozuo, China.
